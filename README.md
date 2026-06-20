@@ -5,9 +5,3 @@ An analytics Forza Horizon Video & Telemetry File Skill, Help you Advance Drive 
 ## Usage
 
 Just upload CSV File & Video File, Copy SKILL.md inside Content to AI Chatbar with Support Vision Model.
-
-## Install Skill
-
-```
-Install This Skill: https://github.com/AkarinLiu/ForzaHorizon-analytics-skills/raw/refs/heads/master/SKILL.md
-```
