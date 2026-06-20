@@ -1,3 +1,4 @@
+---
 name: Froza Horizon 分析技能
 description: 分析玩家的游玩记录，对视频和遥测文件进行分析和复盘。
 ---
